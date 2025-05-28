@@ -29,5 +29,11 @@ through our YouTube channel.
 
 Christelle Scharff, Farzana Gandhi, Daniel Hoernes, Sean D'Costa, Mariana Bejarano, Andrew Greenberg, Fabian Patino, Dhruv Gandhi, Gabriel Ribeiro, Nishit Kishorbhai Shah, Preston Rollins, and Enrique Paz. 2016. AppDock: An Education and Outreach Space for Device Literacy. In Proceedings of the First African Conference on Human Computer Interaction (AfriCHI '16). Association for Computing Machinery, New York, NY, USA, 214–218. https://doi.org/10.1145/2998581.2998608
 
+# Contributors
+
+Christelle Scharff, Farzana Gandhi, Daniel Hoernes, Sean D'Costa, Mariana Bejarano, Andrew Greenberg, Fabian Patino, Dhruv Gandhi, Gabriel Ribeiro, Nishit Kishorbhai Shah, Preston Rollins, and Enrique Paz
+
+# More infos
+
 More infos are available here: [http://mobilesenegal.org/applicafe/](here).
 
