@@ -6,6 +6,8 @@ An AppliCafé is a space inspired by cybercafés. Instead of focusing on fixed c
 and mobile applications. People can interact with phones and tablets, and access the web by connecting to wifi provided at the structure. The main purpose 
 of AppliCafé is to train users in mobile device literacy. 
 
+This work was a collaboration between architects and computer scientists.
+
 ![structure2](https://github.com/user-attachments/assets/0643d53d-e476-4133-943f-e2f7c5d7b1e1)
 
 # Mobile App
@@ -20,8 +22,8 @@ through our YouTube channel.
 ![app2](https://github.com/user-attachments/assets/05540d2f-fb5a-42a8-afa4-a6bb5871ba81)
 ![app3](https://github.com/user-attachments/assets/c0f115f7-b91a-4bf4-8060-e9c4abf4054d)
 ![app4](https://github.com/user-attachments/assets/b816608b-66b8-4ed5-b542-73aa85bf9b17)
-![app5](https://github.com/user-attachments/assets/82aa3c08-1a4b-48d2-a039-b97c34a1c6e0)!
-[app6](https://github.com/user-attachments/assets/17faaf10-07c5-4c67-a05a-c665f6b2c1f0)
+![app5](https://github.com/user-attachments/assets/82aa3c08-1a4b-48d2-a039-b97c34a1c6e0)
+![app6](https://github.com/user-attachments/assets/17faaf10-07c5-4c67-a05a-c665f6b2c1f0)
 
 # Publication
 
